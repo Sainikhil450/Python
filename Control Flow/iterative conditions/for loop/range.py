@@ -1,0 +1,8 @@
+res=range(1,10,1)
+print(list(res))
+print("***********************")
+print("negative step")
+res=range(10,1,-1)
+print(list(res))
+res=range(-1,-10,-1)
+print(list(res))
